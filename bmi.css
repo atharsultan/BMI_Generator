@@ -1,0 +1,35 @@
+*{
+    background-color: grey;
+    font-family: arial;
+    text-align: center;
+}
+
+
+input{
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+input:focus {
+    border: none;
+  }
+
+button{
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    width: 90px;
+    font-weight: bold;
+   
+}
+#btn{
+    padding-left: 100px;
+}
+#results{
+    color: white;
+    padding: 20px;
+}
+#range{
+    color: white;
+}
